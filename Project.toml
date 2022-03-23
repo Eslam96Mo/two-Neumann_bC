@@ -1,0 +1,11 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+ColorSchemes = "35d6a980-a343-548e-a6ea-1d62b119f2f4"
+DiffEqGPU = "071ae1c0-96b5-11e9-1965-c90190d839ea"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+
+[extras]
+CPUSummary = "2a0fbf3d-bb9c-48f3-b0a9-814d99fd7ab9"
